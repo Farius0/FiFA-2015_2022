@@ -1,15 +1,8 @@
 # FiFA-2015_2022
 
-Projet ludique réalisé avec un collègue dans le but d'analyser les informations pouvant être intéressantes à analyser.
+Projet collaboratif réalisé avec un collègue, visant à collecter, traiter, analyser et interpréter les informations contenues dans une large base de données de Football
 
-## Librairies principales
-- Numpy
-- Matplotlib
-- Beautisoup
-- Pandas
-- ipywidget
-
-## Grandes lignes du projet
+# Grandes lignes du projet
 ## I. Introduction
 ## II. Collecte et préparation des données
 - Scraping des données de Coupe du Monde (1930_2022)
@@ -29,3 +22,10 @@ Projet ludique réalisé avec un collègue dans le but d'analyser les informatio
 - Lien entre les valeurs marchandes et les performances réélles des équipes nationales
 - Lien entre les notes globales et les performances réelles des joueurs
 ## VII. Conclusions
+
+## Librairies principales
+- Numpy
+- Matplotlib
+- Beautisoup
+- Pandas
+- ipywidget
